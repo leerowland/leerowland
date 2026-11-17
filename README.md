@@ -1,6 +1,6 @@
 ### Hi, I'm Samuel 👋
 
-I'll soon be finishing my MSc in Data Science & AI, and I'm looking for roles in **Machine Learning, Embedded Systems, or Robotics**. I like projects that live at the intersection of software and hardware — training a model is only half the job if it never has to run on real, constrained silicon.
+I've recently finished my MSc in Data Science & AI, and I'm looking for roles in **Computer Vision, Machine Learning, or Physical AI**. I like projects that live at the intersection of software and hardware — training a model is only half the job if it never has to run on real, constrained silicon.
 
 ---
 
